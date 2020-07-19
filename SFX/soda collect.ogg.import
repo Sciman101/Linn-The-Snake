@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/soda collect.ogg-1b73b0a15414aa5cd7d7442b8253331e.oggstr"
+
+[deps]
+
+source_file="res://SFX/soda collect.ogg"
+dest_files=[ "res://.import/soda collect.ogg-1b73b0a15414aa5cd7d7442b8253331e.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
